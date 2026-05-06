@@ -48,7 +48,8 @@ a:hover{
 }
 .main2{
     background-color: rgba(164, 227, 222, 0.356);
-    height: 700px;
+    height: 600px;
+    width: 100%;
     display: flex;
     justify-content: space-between;
     margin-bottom: 30px;
@@ -95,6 +96,7 @@ a:hover{
 .main3{
     background-color: white;
     height: 400px;
+    width: 100%;
     margin-bottom: 30px;
     display: flex;
     align-items: center;
@@ -127,6 +129,7 @@ p{
 .main4{
     background-color: rgba(164, 227, 222, 0.356);
     height: 600px;
+    width: 100%;
     justify-content: center;
     margin-bottom: 30px;
     align-items: center;
@@ -191,6 +194,7 @@ h3{
 .main5{
     background-color: rgba(164, 227, 222, 0.356);
     height: 500px;
+    width: 100%;
     display: flex;
     justify-content: center;
     margin-bottom: 30px;
@@ -238,6 +242,7 @@ h3{
 .main6{
     background-color: rgba(164, 227, 222, 0.769);
     height: 100px;
+    width: 100%;
     margin-bottom: 30px;
     display: flex;
     align-items: center;

@@ -2,7 +2,7 @@
 .main1{
     background-color: rgba(164, 227, 222, 0.984);
     height: 50px;
-    width: 100%;
+    width: 90%;
     display: flex;
     justify-content: space-around;
     margin-bottom: 10px;

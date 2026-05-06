@@ -63,7 +63,7 @@ a:hover{
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    padding-left: 85px;
+    padding-left: 50px;
 }
 .img{
     border-radius: 50%;
@@ -258,7 +258,7 @@ h3{
 }
 
 /* Mobile */
-@media (max-width: 480px) {
+@media (max-width: 490px) {
 
     .main1 {
         padding: 10px;

@@ -49,7 +49,7 @@ a:hover{
 .main2{
     background-color: rgba(164, 227, 222, 0.356);
     height: 600px;
-    width: 100%;
+    width: 90%;
     display: flex;
     justify-content: space-between;
     margin-bottom: 30px;
